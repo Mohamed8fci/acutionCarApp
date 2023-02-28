@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "436306249977",
+    "project_id": "auctioncarapp-2fb0c",
+    "storage_bucket": "auctioncarapp-2fb0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436306249977:android:3f6c6f134bc426d635ba28",
+        "android_client_info": {
+          "package_name": "com.example.auctioncarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436306249977-a2e0n6vpdb79kn6t9k82f7n07v3furam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auctioncarapp",
+            "certificate_hash": "f6bee68b0924d71373e7a397d8bea5168fa87b79"
+          }
+        },
+        {
+          "client_id": "436306249977-02siu0hfrhclk7i8qjjgkv9u04ta347q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk9uAc5sSMXC14pN0ewyseR_-bWn0yNkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436306249977-02siu0hfrhclk7i8qjjgkv9u04ta347q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
